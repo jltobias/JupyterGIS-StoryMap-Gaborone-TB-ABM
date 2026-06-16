@@ -1,0 +1,11 @@
+.github/build-environment.yml
+MANIFEST.txt
+README.md
+content/data/gaborone_tb_commuting_flows.geojson
+content/data/gaborone_tb_facilities.geojson
+content/data/gaborone_tb_interventions.geojson
+content/data/gaborone_tb_neighborhoods.geojson
+content/gaborone_tb_abm_overview_story.jGIS
+content/gaborone_tb_calibration_validation_story.jGIS
+content/gaborone_tb_intervention_scenarios_story.jGIS
+environment.yml
